@@ -1,0 +1,28 @@
+C:\Users\Admin\source\repos\InventorySystemRetail\InventorySystemRetail\bin\Debug\net8.0\InventorySystemRetail.exe
+C:\Users\Admin\source\repos\InventorySystemRetail\InventorySystemRetail\bin\Debug\net8.0\InventorySystemRetail.deps.json
+C:\Users\Admin\source\repos\InventorySystemRetail\InventorySystemRetail\bin\Debug\net8.0\InventorySystemRetail.runtimeconfig.json
+C:\Users\Admin\source\repos\InventorySystemRetail\InventorySystemRetail\bin\Debug\net8.0\InventorySystemRetail.dll
+C:\Users\Admin\source\repos\InventorySystemRetail\InventorySystemRetail\bin\Debug\net8.0\InventorySystemRetail.pdb
+C:\Users\Admin\source\repos\InventorySystemRetail\InventorySystemRetail\obj\Debug\net8.0\InventorySystemRetail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\InventorySystemRetail\InventorySystemRetail\obj\Debug\net8.0\InventorySystemRetail.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\InventorySystemRetail\InventorySystemRetail\obj\Debug\net8.0\InventorySystemRetail.AssemblyInfo.cs
+C:\Users\Admin\source\repos\InventorySystemRetail\InventorySystemRetail\obj\Debug\net8.0\InventorySystemRetail.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InventorySystemRetail\InventorySystemRetail\obj\Debug\net8.0\InventorySystemRetail.dll
+C:\Users\Admin\source\repos\InventorySystemRetail\InventorySystemRetail\obj\Debug\net8.0\refint\InventorySystemRetail.dll
+C:\Users\Admin\source\repos\InventorySystemRetail\InventorySystemRetail\obj\Debug\net8.0\InventorySystemRetail.pdb
+C:\Users\Admin\source\repos\InventorySystemRetail\InventorySystemRetail\obj\Debug\net8.0\InventorySystemRetail.genruntimeconfig.cache
+C:\Users\Admin\source\repos\InventorySystemRetail\InventorySystemRetail\obj\Debug\net8.0\ref\InventorySystemRetail.dll
+C:\Users\Admin\source\repos\Inventory Management System\InventorySystemRetail\bin\Debug\net8.0\InventorySystemRetail.exe
+C:\Users\Admin\source\repos\Inventory Management System\InventorySystemRetail\bin\Debug\net8.0\InventorySystemRetail.deps.json
+C:\Users\Admin\source\repos\Inventory Management System\InventorySystemRetail\bin\Debug\net8.0\InventorySystemRetail.runtimeconfig.json
+C:\Users\Admin\source\repos\Inventory Management System\InventorySystemRetail\bin\Debug\net8.0\InventorySystemRetail.dll
+C:\Users\Admin\source\repos\Inventory Management System\InventorySystemRetail\bin\Debug\net8.0\InventorySystemRetail.pdb
+C:\Users\Admin\source\repos\Inventory Management System\InventorySystemRetail\obj\Debug\net8.0\InventorySystemRetail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Inventory Management System\InventorySystemRetail\obj\Debug\net8.0\InventorySystemRetail.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Inventory Management System\InventorySystemRetail\obj\Debug\net8.0\InventorySystemRetail.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Inventory Management System\InventorySystemRetail\obj\Debug\net8.0\InventorySystemRetail.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Inventory Management System\InventorySystemRetail\obj\Debug\net8.0\InventorySystemRetail.dll
+C:\Users\Admin\source\repos\Inventory Management System\InventorySystemRetail\obj\Debug\net8.0\refint\InventorySystemRetail.dll
+C:\Users\Admin\source\repos\Inventory Management System\InventorySystemRetail\obj\Debug\net8.0\InventorySystemRetail.pdb
+C:\Users\Admin\source\repos\Inventory Management System\InventorySystemRetail\obj\Debug\net8.0\InventorySystemRetail.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Inventory Management System\InventorySystemRetail\obj\Debug\net8.0\ref\InventorySystemRetail.dll
