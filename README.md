@@ -36,4 +36,38 @@ Although built as a CLI application, the project follows scalable design practic
 
 ---
 
-## Project Structure
+
+---
+
+## Architecture Design
+
+The application follows a **layered architecture**:
+
+### 1. Presentation Layer
+Handles user input and menu navigation via CLI.
+
+### 2. Business Logic Layer (Service Layer)
+Implements inventory rules and core operations.
+
+### 3. Data Access Layer (Repository Pattern)
+Abstracts file operations and manages JSON serialization.
+
+This structure ensures:
+
+- Separation of concerns  
+- Maintainability  
+- Extensibility  
+- Cleaner debugging and testing  
+
+---
+
+## Data Model
+
+```csharp
+public class Product
+{
+    public Guid Id { get; set; }
+    public string Name { get; set; }
+    public decimal Price { get; set; }
+    public int Quantity { get; set; }
+}
